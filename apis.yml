@@ -1,5 +1,5 @@
 aid: cardmonster-inc
-name: CardMonster Inc.
+name: CardMonster
 description: >-
   CardMonster turns ideas and brands into games. The company designs and publishes premium
   IP-based tabletop titles with global partners such as Disney and Krafton, and builds CardMonster
@@ -66,3 +66,4 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-legal-name: CardMonster Inc.
